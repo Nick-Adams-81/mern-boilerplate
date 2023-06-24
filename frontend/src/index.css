@@ -1,0 +1,12 @@
+
+
+ h1 {
+  color: grey;
+ }
+
+ .header {
+  display: inline-block;
+  background: grey;
+  width: 100%;
+ }
+
